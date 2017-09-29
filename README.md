@@ -1,4 +1,5 @@
-Analyzing OA availability of articles discussed on Reddit in random sample
+#Analyzing OA availability of articles discussed on Reddit in random (?) sample.
+
 Remote participation in #4amhack
 
 4:AM Hack Day Do-a-thon: http://altmetricsconference.com/4am-hack-day/
