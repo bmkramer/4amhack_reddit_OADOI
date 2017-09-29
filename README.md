@@ -15,5 +15,6 @@ OA status checked for subset of those 10,000 with that have an event date (‘oc
 NB NOT DEDUPLICATED YET (b/c time constraint) 
 [now checked # duplicate DOIs within subreddits: only 60, so < 1%] 
 
+source files and results as csv in repo, also see:
 https://docs.google.com/spreadsheets/d/1bUDLWZTxCl1s-mUgG0D6BaUileb38MwSsvPyERdbu7A/edit#gid=2069541488
 
