@@ -2,8 +2,8 @@
 
 Remote participation in #4amhack
 
-4:AM Hack Day Do-a-thon: http://altmetricsconference.com/4am-hack-day/
-Google Doc with ideas/reports from participants: https://docs.google.com/document/d/1fDhgpZuRDdqGXsVyOl7xu7UNJAE94-BQqsx3-rwZkpE/edit?platform=hootsuite#
+- 4:AM Hack Day Do-a-thon: http://altmetricsconference.com/4am-hack-day/
+- Google Doc with ideas/reports from participants: https://docs.google.com/document/d/1fDhgpZuRDdqGXsVyOl7xu7UNJAE94-BQqsx3-rwZkpE/edit?platform=hootsuite#
 
 OA Availability of DOIs of articles discussed on Reddit 
 (corpus: 10,000 random (?) Reddit events from CrossRef Event data)
