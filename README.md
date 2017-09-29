@@ -19,5 +19,6 @@ NB NOT DEDUPLICATED YET (b/c time constraint)
 source files and results as csv in repo, also see:
 https://docs.google.com/spreadsheets/d/1bUDLWZTxCl1s-mUgG0D6BaUileb38MwSsvPyERdbu7A/edit#gid=2069541488
 
-![OA availability of articles discussed on Reddit](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 ![OA availability of articles discussed on Reddit](Reddit%20OA%20availability.png "Results table")
