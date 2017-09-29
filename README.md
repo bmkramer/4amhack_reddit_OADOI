@@ -1,8 +1,9 @@
-# Analyzing OA availability of articles discussed on Reddit in random (?) sample.
+# Analyzing OA availability of articles discussed on Reddit.
 
 Remote participation in #4amhack
 
 4:AM Hack Day Do-a-thon: http://altmetricsconference.com/4am-hack-day/
+
 Google Doc with ideas/reports from participants: https://docs.google.com/document/d/1fDhgpZuRDdqGXsVyOl7xu7UNJAE94-BQqsx3-rwZkpE/edit?platform=hootsuite#
 
 OA Availability of DOIs of articles discussed on Reddit 
