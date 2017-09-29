@@ -10,6 +10,7 @@ OA Availability of DOIs of articles discussed on Reddit
 Used: 
 - R package ‘crevent’: https://github.com/ropenscilabs/crevents
 - OADOI R script: https://github.com/bmkramer/OADOI_API_R (used OADOI API v2)
+- manual spreadsheeting :-) 
 
 OA status checked for subset of those 10,000 with that have an event date (‘occurred’) in  2015-2017 (n= 6593), broken down by subreddit
 
