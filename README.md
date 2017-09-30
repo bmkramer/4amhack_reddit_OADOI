@@ -26,4 +26,4 @@ https://docs.google.com/spreadsheets/d/1v57pIMaEaIn58qgPclGF-pZLHUrnylJbcjB9bMUz
 
 
 
-![OA availability of articles discussed on Reddit](Reddit%20OA%20availability.png "Results table")
+![OA availability of articles discussed on Reddit](Reddit%20201701-201709%20OA%20availability.png "Results table")
