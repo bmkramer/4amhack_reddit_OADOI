@@ -9,7 +9,7 @@ Remote participation in #4amhack
 
 OA Availability of DOIs of articles discussed on Reddit
 
-(corpus: all  Reddit events that occurred between Jan 1-Sep 30 2017, from CrossRef Event data (*n=7451*))
+(corpus: all  Reddit events that occurred between Jan 1-Sep 30 2017, from CrossRef Event data (**n=7451**))
 
 Used: 
 - R package ‘crevents’: https://github.com/ropenscilabs/crevents
