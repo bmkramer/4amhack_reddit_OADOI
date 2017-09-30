@@ -1,4 +1,4 @@
-# Analyzing OA availability of articles discussed on Reddit.
+# Analyzing OA availability of articles discussed on Reddit
 
 [update 20170930: new sample: all Reddit events Jan-Sep 2017]
 
