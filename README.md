@@ -8,13 +8,14 @@ Remote participation in #4amhack
 - Google Doc with ideas/reports from participants: https://docs.google.com/document/d/1fDhgpZuRDdqGXsVyOl7xu7UNJAE94-BQqsx3-rwZkpE/edit?platform=hootsuite#
 
 OA Availability of DOIs of articles discussed on Reddit 
-(corpus: all  Reddit events that occurred between Jan 1-Sep 30 2017, from CrossRef Event data (n=7451))
+(corpus: all  Reddit events that occurred between Jan 1-Sep 30 2017, from CrossRef Event data (*n=7451*))
+
 Used: 
 - R package ‘crevents’: https://github.com/ropenscilabs/crevents
 - OADOI R script: https://github.com/bmkramer/OADOI_API_R (used OADOI API v2)
 - manual spreadsheeting :-) 
 
-OA status checked for articles (resolved to their DOI) in 7351 Reddit events occurring between Jan 1-Sep 30 2017, broken down by subreddit.
+OA status checked for articles discussed (resolved to their DOI), broken down by subreddit.
 Deduplicated within subreddits -> 7093 unique DOIs. 
 
 
