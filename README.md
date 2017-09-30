@@ -1,6 +1,6 @@
 # Analyzing OA availability of articles discussed on Reddit
 
-update 20170930: new sample: all Reddit events Jan-Sep 2017 (see also [1st sample of 10,000 events](https://github.com/bmkramer/4amhack_reddit_OADOI/tree/reddit-sample-10%2C000))
+[update 20170930: new sample: all Reddit events Jan-Sep 2017 (see also [1st sample of 10,000 events](https://github.com/bmkramer/4amhack_reddit_OADOI/tree/reddit-sample-10%2C000))]
 
 
 Remote participation in #4amhack
