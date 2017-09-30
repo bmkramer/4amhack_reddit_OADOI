@@ -12,7 +12,7 @@ Used:
 - OADOI R script: https://github.com/bmkramer/OADOI_API_R (used OADOI API v2)
 - manual spreadsheeting :-) 
 
-OA status checked for subset of those 10,000 with that have an event date (‘occurred’) in  2015-2017 (n= 6593), broken down by subreddit
+OA status checked for the subset of those 10,000 that have an event date (‘occurred’) in  2015-2017 (n= 6593), broken down by subreddit
 
 NB NOT DEDUPLICATED YET (b/c time constraint) 
 [now checked # duplicate DOIs within subreddits: only 60, so < 1%] 
